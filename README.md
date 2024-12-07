@@ -1,5 +1,5 @@
 # Neural-Networks-and-Deep-Learning-Project---Group-2
-This is the repository for the Neural Networks and Deep Learning course final project. We are group 2 and our group members are Ramil Altura, Weiwei Wang and Yuyang Shen.
+This is the repository for the Neural Networks and Deep Learning course (COMP-3704 Neural Networks and Deep Learning, Fall 2024 at Red River College Polytechnic.) final project. We are group 2 and our group members are Ramil Altura, Weiwei Wang and Yuyang Shen.
 
 The model.py is the file that describes the data processing, and the model building. After training the model, it generates a .keras file that includes the model's weight and structure. In the reference we refer to, they save the model into 2 files,.h5(structure) and .json(weight). The codes for the model did not work initially, we worked on the codes, fixing the bugs and made the codes run successfully. However, we still run into problems with connecting it to Udacity car simulator. The simulator and datasets resources are referred from: https://github.com/udacity/self-driving-car-sim, we recomend using [term 1, version 2](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip). 
 
